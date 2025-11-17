@@ -19,14 +19,6 @@ Exploring AI/Web3 beyond my core data analytics work.
 - Hackathon: [lablab.ai](https://lablab.ai/event/ai-agents-arc-usdc/ai-squad/yieldflow)
 
 **Tech:** Python, Web3.py, PostgreSQL, Smart Contracts
-```
-
----
-
-### **Step 2: LinkedIn添加（5分钟）**
-
-**Experience section加这个：**
-```
 AI Squad Team Member | lablab.ai Hackathon | Nov 2024
 - Built backend data pipeline for DeFi yield optimizer in 48-hour hackathon
 - Aggregated real-time APY data from 4+ protocols using Python
