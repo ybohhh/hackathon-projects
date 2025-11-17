@@ -2,7 +2,7 @@
 
 Collection of projects exploring emerging technologies beyond my core data analytics work.
 
-> 💼 For my data analytics portfolio, see: [sales-etl](../sales-etl), [cloudmusic-analytics](../cloudmusic-analytics)
+> 💼 For my data analytics portfolio, see: [sales-etl](../sales-etl), [cloudmusic-analytics](../cloudmusic-data-platform)
 
 ---
 
@@ -34,7 +34,7 @@ using Circle's CCTP for cross-chain liquidity deployment.
 #### 🔗 Links
 - **Team GitHub**: [Smart-DeFi-Router-Agent](https://github.com/SaifulAnw/Smart-DeFi-Router-Agent)
 - **Hackathon Page**: [lablab.ai submission](https://lablab.ai/event/ai-agents-arc-usdc/ai-squad/yieldflow)
-- **My Specific Contributions**: See [CONTRIBUTIONS.md](./yieldflow/CONTRIBUTIONS.md)
+- **My Specific Contributions**: See [CONTRIBUTIONS.md](./yieldflow/contributions.md)
 
 #### 📊 Technical Highlights
 - Processed real-time APY data from Aave, Curve, Yearn protocols
